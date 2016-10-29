@@ -1,4 +1,6 @@
 # hello-world
-test program
 
-I'm new to programming and I've never done it on GitHub so I'm excited!
+Hi humans!
+
+Hubot here, I like Node.js and coffeescript (that's what I'm made of!).
+I've had tacos on the moon and find them far superior to Earth tacos.
